@@ -28,4 +28,5 @@ def login(url,uname,pswd):
     gcode.send_keys(426081) #pass otp
     gcode.send_keys('\n')
 
-login('https://adroll.okta.com','dhayanithi.vijayan@adroll.com','Adroll@123')
+login(
+)
